@@ -46,6 +46,6 @@ Gosto de resolver problemas, trabalhar de forma organizada e aprender como as co
 
 ###
 
-<h3 align="left">Obrigada por visitar meu perfil! <3 </h3>
+<h2 align="left">Obrigada por visitar meu perfil! <3 </h2>
 
 ###
