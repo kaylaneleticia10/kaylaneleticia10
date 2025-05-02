@@ -37,7 +37,13 @@ Gosto de resolver problemas, trabalhar de forma organizada e aprender como as co
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedIn/linkedIn-original.svg" height="40" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/email/email-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/email/email-original.svg" height="40" alt="email logo"  />
 </div>
+
+###
+
+<h2 align="left">Obrigada por visitar meu perfil! <3 </h2>
+
+###
