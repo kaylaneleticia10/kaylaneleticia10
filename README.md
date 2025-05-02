@@ -10,7 +10,7 @@ Gosto de resolver problemas, trabalhar de forma organizada e aprender como as co
 
 ###
 
-<p align="left">📚 Estudante de Tecnologia em Gestão da Tecnologia da Informação<br>✨ Técnica em Design Gráfico<br>🚀 Em busca de **novos desafios** para aprimorar minhas habilidades e expandir meu conhecimento.</p>
+<p align="left">📚 Estudante de Tecnologia em Gestão da Tecnologia da Informação<br>✨ Técnica em Design Gráfico<br>🚀 Em busca de novos desafios para aprimorar minhas habilidades e expandir meu conhecimento.</p>
 
 ###
 
