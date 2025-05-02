@@ -14,7 +14,7 @@ Gosto de resolver problemas, trabalhar de forma organizada e aprender como as co
 
 ###
 
-<h2 align="left"></h2>
+<h2 align="left">Tecnologias e Ferramentas</h2>
 
 ###
 
@@ -31,3 +31,13 @@ Gosto de resolver problemas, trabalhar de forma organizada e aprender como as co
 </div>
 
 ###
+
+<h2 align="left">📫 Vamos conversar?</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedIn/linkedIn-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/email/email-original.svg" height="40" alt="html5 logo"  />
+</div>
