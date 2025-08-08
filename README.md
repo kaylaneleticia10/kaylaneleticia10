@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Bem-vindo ao meu espaço no GitHub! Me chamo Kaylane, tenho 21 anos e sou de Guaratinguetá-SP. Sou uma pessoa dedicada e apaixonada por tecnologia e pelo constante aprendizado. Atualmente curso Gestão da Tecnologia da Informação e busco desenvolver cada vez mais minhas habilidades em desenvolvimento e áreas relacionadas. Tenho conhecimentos em HTML, CSS, JavaScript e estou sempre em busca de aprimorar minhas competências práticas e teóricas. </p>
+<p align="left">Bem-vindo ao meu espaço no GitHub! Me chamo Kaylane, tenho 21 anos e sou de Guaratinguetá-SP. Sou uma pessoa dedicada e apaixonada por tecnologia e pelo constante aprendizado. Atualmente curso Gestão da Tecnologia da Informação e busco desenvolver cada vez mais minhas habilidades em desenvolvimento e áreas relacionadas.</p>
 <h2 align="left">Sobre mim</h2>
 
 ###
